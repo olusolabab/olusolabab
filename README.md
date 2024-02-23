@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olusola
 - 👀 I’m interested in all things Cyber
-- 🌱 I’m currently learning to become a Cybersecurity Analyst
+- 🌱 I’m currently learning to become a Cybersecurity Engineer
 
 <!---
 olusolabab/olusolabab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
